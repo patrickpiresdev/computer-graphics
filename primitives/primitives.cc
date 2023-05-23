@@ -1,6 +1,6 @@
 #include <GL/glut.h>
 #include <cmath>
-#include "colors.h"
+#include "../colors/colors.h"
 #include "primitives.h"
 
 void Line::draw()

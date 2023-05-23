@@ -1,5 +1,5 @@
-#include "colors.h"
 #include <GL/glut.h>
+#include "../colors/colors.h"
 
 Color newColor(GLfloat r, GLfloat g, GLfloat b)
 {

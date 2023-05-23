@@ -1,8 +1,8 @@
 #include <GL/glut.h>
 #include <cmath>
 #include <random>
-#include "colors.h"
-#include "primitives.h"
+#include "../colors/colors.h"
+#include "../primitives/primitives.h"
 
 float y_car = -63.75;
 float x_scenario = 0;

@@ -2,7 +2,7 @@
 #define PRIMITIVES_H
 
 #include <GL/glut.h>
-#include "colors.h"
+#include "../colors/colors.h"
 
 class Line {
     public:
